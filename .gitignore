@@ -1,4 +1,5 @@
 *.pyc
 **/*/__pychache__
+myvenv
 db.sqlite3
 #https://tutorial.djangogirls.org/zh/django_forms/
